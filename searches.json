@@ -1,0 +1,47 @@
+[
+    {
+        "SEARCH_PHRASE":"asdasdasdasdas", 
+        "MONTHS":100, 
+        "SECTIONS":["Business"]
+    },
+    {
+        "SEARCH_PHRASE":"Taylor Swift", 
+        "MONTHS":4, 
+        "SECTIONS":["Arts", "Magazine"]
+    }, 
+    {
+        "SEARCH_PHRASE":"keanu reeves", 
+        "MONTHS":120, 
+        "SECTIONS":["Movies"]
+    },
+    {
+        "SEARCH_PHRASE":"money",
+        "MONTHS":2, 
+        "SECTIONS":[]
+    },   
+    {
+        "SEARCH_PHRASE":"bank", 
+        "MONTHS":2, 
+        "SECTIONS":[]
+    },
+    {
+        "SEARCH_PHRASE":"cost", 
+        "MONTHS":2, 
+        "SECTIONS":[]
+    },
+    {
+        "SEARCH_PHRASE":"price", 
+        "MONTHS":2, 
+        "SECTIONS":[]
+    },
+    {
+        "SEARCH_PHRASE":"invest", 
+        "MONTHS":2, 
+        "SECTIONS":[]
+    },
+    {
+        "SEARCH_PHRASE":"green lime", 
+        "MONTHS":1500000, 
+        "SECTIONS":["Food", "Style"]
+    }
+]
